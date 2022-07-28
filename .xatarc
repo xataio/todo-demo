@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://acme-inc-lola3g.xata.sh/db/todo-app",
+  "codegen": {
+    "output": "util/xata.ts"
+  }
+}
